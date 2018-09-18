@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paycor.MarketPlace.Samples", "Paycor.MarketPlace.Samples\Paycor.MarketPlace.Samples.csproj", "{910B3F9C-97BD-4D7F-8E6F-8F3EE0CD1469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paycor.MarketPlace.ApiClient", "Paycor.MarketPlace.Client\Paycor.MarketPlace.ApiClient.csproj", "{AB77DA45-19E1-4C9A-8F13-650DC377E32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910B3F9C-97BD-4D7F-8E6F-8F3EE0CD1469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910B3F9C-97BD-4D7F-8E6F-8F3EE0CD1469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910B3F9C-97BD-4D7F-8E6F-8F3EE0CD1469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910B3F9C-97BD-4D7F-8E6F-8F3EE0CD1469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB77DA45-19E1-4C9A-8F13-650DC377E32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB77DA45-19E1-4C9A-8F13-650DC377E32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB77DA45-19E1-4C9A-8F13-650DC377E32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB77DA45-19E1-4C9A-8F13-650DC377E32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27FB42B2-326D-4BAF-8445-529C772DB9CB}
+	EndGlobalSection
+EndGlobal
