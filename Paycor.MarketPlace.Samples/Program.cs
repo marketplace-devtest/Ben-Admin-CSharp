@@ -55,7 +55,7 @@ namespace Paycor.MarketPlace.Samples
 
             var employeeCollection = await _client.DemographicData.GetEmployeeListV1(parameterCollection);
 
-            WriteEmployeeCollectionToConsole(employeeCollection);
+            WriteEmployeeCollectionToConsole("test");
         }
 
         static async Task GetSinglePageOfEmployees()
